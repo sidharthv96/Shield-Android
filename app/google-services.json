@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "541224685719",
+    "firebase_url": "https://watchdog-44991.firebaseio.com",
+    "project_id": "watchdog-44991",
+    "storage_bucket": "watchdog-44991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541224685719:android:df14473f8add1d26",
+        "android_client_info": {
+          "package_name": "com.sid.mini.shield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541224685719-kj1bknigo8imq634qaigc6u38ca0fult.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sid.mini.shield",
+            "certificate_hash": "cbdc56c568c3f53c4492ec584338991319bebded"
+          }
+        },
+        {
+          "client_id": "541224685719-a9dr4bn1t16u59nlibbrj1uquejavc4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkBOuB3LTzlgf35EXaACg2AVU_Xfso48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541224685719-a9dr4bn1t16u59nlibbrj1uquejavc4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
